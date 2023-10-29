@@ -4,19 +4,10 @@ Shirt Measurement Preview using javacript
 
 ## Screenshots
 Home
-![Home](screenshots/1.png)
+![Home](screenshot/1.png)
 
-Admin Login
-![Preview](screenshots/2.png)
-
-
-
-
-## Database
-Database is available in database directory
-```sql
-ims.sql
-```
+Preview
+![Preview](screenshot/2.png)
 
 ## Author
 Azhar Chaudhari
